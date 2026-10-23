@@ -251,8 +251,8 @@ Aim for 3–5 minutes.
 - Task lists are not paginated.
 - There is no Playwright suite.
 - ASCII case folding does not lowercase letters outside `A-Z`.
-- The AI transcript and the screen recording are not in the repo yet.
-- The repository has not been published.
+- The screen recording is not in the repo yet. The AI session log is in `ai-log/`.
+- The public repository is https://github.com/VarunPunzuri99/Tasklist_app.
 
 ## What I would implement next
 
@@ -267,7 +267,7 @@ These are not implemented.
 
 ## AI tool usage
 
-Cursor Agent generated and revised this project in one session. The unedited transcript is not in the repo yet. See `ai-log/README.md` for the capture steps. Do not treat that README as the transcript.
+Cursor Agent generated and revised this project in one session. The session log is `ai-log/fd6942a5-05f4-4f80-9609-c9a274a5f25a.jsonl`. One email address in that file is replaced with `[REDACTED]`. See `ai-log/README.md`. Do not treat that README as the transcript.
 
 ## Submission checklist
 
@@ -280,4 +280,4 @@ Cursor Agent generated and revised this project in one session. The unedited tra
 - [ ] Screen recording link in this README is a real recording
 - [ ] Public GitHub repository is named `task-list-app`
 
-Public repository URL: not published.
+Public repository URL: https://github.com/VarunPunzuri99/Tasklist_app

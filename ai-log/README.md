@@ -4,9 +4,9 @@ The assessment asks for the complete, unedited AI transcripts used to build this
 
 ## What is in this folder
 
-This README is only a description of how to capture the transcript. It is not a transcript.
+This README describes the folder. It is not the transcript.
 
-No AI transcript file has been saved here yet. While this Cursor Agent session was running, the project's agent-transcript folder did not contain a `.jsonl` file that could be copied. Creating a rewritten summary and labeling it as the session would not meet the requirement, so that was not done.
+`fd6942a5-05f4-4f80-9609-c9a274a5f25a.jsonl` is the Cursor session log for the chat that built this project. One email address in that file was replaced with `[REDACTED]`. The rest of the log is unchanged.
 
 ## How to save the real transcript
 
