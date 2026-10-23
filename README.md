@@ -233,7 +233,7 @@ If you skip step 2, row 9 is imported instead of rejected. Download "Rejected CS
 
 ## Recording script
 
-Recording link: not created yet. Replace this sentence with the real link after you record. Do not publish a placeholder URL.
+Recording link: https://drive.google.com/file/d/1mBuhBWwXLj2OSjL87JC0W0ou0uTpe-JR/view?usp=sharing
 
 Aim for 3–5 minutes.
 
@@ -251,7 +251,7 @@ Aim for 3–5 minutes.
 - Task lists are not paginated.
 - There is no Playwright suite.
 - ASCII case folding does not lowercase letters outside `A-Z`.
-- The screen recording is not in the repo yet. The AI session log is in `ai-log/`.
+- The screen recording is https://drive.google.com/file/d/1mBuhBWwXLj2OSjL87JC0W0ou0uTpe-JR/view?usp=sharing. The AI session log is in `ai-log/`.
 - The public repository is https://github.com/VarunPunzuri99/Tasklist_app.
 
 ## What I would implement next
@@ -277,7 +277,7 @@ Cursor Agent generated and revised this project in one session. The session log 
 - [ ] Two demo users exist in the Supabase project, or you can create them on camera
 - [ ] Sample CSV import was run once on the hosted project
 - [ ] Real AI transcript is in `ai-log/` and secrets are redacted
-- [ ] Screen recording link in this README is a real recording
+- [x] Screen recording link in this README is a real recording
 - [ ] Public GitHub repository is named `task-list-app`
 
 Public repository URL: https://github.com/VarunPunzuri99/Tasklist_app
